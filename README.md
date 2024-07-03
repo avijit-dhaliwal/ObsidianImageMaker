@@ -44,4 +44,5 @@ If you encounter any issues or have questions, please file an issue on the GitHu
 This plugin modifies files in your Obsidian vault. While it's designed to be safe, please ensure you have a backup of your vault before using this plugin. Avijit Dhaliwal or any of ther contributors are not responsible for any lost files. Use according to your own accord and understanding of the plugin and Obsidian.
 
 ## Contact
+
 avijit.dhaliwal@gmail.com
